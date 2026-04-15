@@ -37,12 +37,14 @@ EXAMPLE - What I built and approach taken:
 ---
 
 ## Project Structure
+```
 project-name/
 ├── README.md
 ├── data/ (Datasets)
 ├── src/ (Python Scripts)
 ├── viz/ (Visualizations)
 └── requirements.txt
+```
 
 ---
 
