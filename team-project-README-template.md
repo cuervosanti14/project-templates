@@ -21,9 +21,9 @@ Explain the problem this solves and the team's approach.
 ## My Contribution
 Detailed explanation of MY specific work:
 - What I built/coded
-- Technical approaches you used
-- Results you achieved
-- Skills you demonstrated
+- Technical approaches I used
+- Results I achieved
+- Skills I demonstrated
 
 ---
 
@@ -73,7 +73,7 @@ project-name/
 
 ## How to Run
 1. Clone: `git clone https://github.com/cuervosanti14/[repo-name]`
-2. Install dependencies: `pip install -r requirements.txt`
+2. Install requirements: `pip install -r requirements.txt`
 3. Run: [specific instructions]
 
 ---
