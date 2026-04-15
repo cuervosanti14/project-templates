@@ -1,73 +1,42 @@
-# [Project Name]
-Brief 1-2 sentence description.
+# Project Templates
 
 ---
 
-## About
-What problem does this solve? What did I learn?
-
-## Team
-
-| Name | Role |
-|---|---|
-| **Santiago CUervo** | [Role] – [Tasks] |
-| **[Name]** | [Role] – [Tasks] |
+Personal templates for data science and analytics projects.
 
 ---
 
-## My Contribution
-[For team projects - what I specifically did]
+## What's Here
+
+This repo contains standardized README templates I use for all my projects to maintain consistency and professionalism.
 
 ---
 
-## Libraries Used
-- EXAMPLE: Python, pandas, scikit-learn, matplotlib
+### Templates:
+- **`solo-project-README-template.md`** - For individual projects
+- **`team-project-README-template.md`** - For group/collaborative projects
 
 ---
 
-## Data
-- **Source:** [Name](link)
-- **Description:** [Description]
+## How to Use
+
+1. Copy the appropriate template
+2. Paste into new project's README.md
+3. Fill in the bracketed sections with project details
+4. Delete any sections that don't apply
 
 ---
 
-## Project Overview
-[Overview]
-- [Task 1]
-- [Task 2]
-- etc...
+## Purpose
 
----
-  
-## Key Findings
-- Finding 1
-- Finding 2
-- Finding 3
-
----
-  
-## Project Structure
-- `data/` - Datasets
-- `src/` - Python scripts  
-- `viz/` - Visualizations
+These templates help me:
+- Document projects consistently
+- Highlight key contributions and findings
+- Make projects accessible to employers and collaborators
+- Maintain professional portfolio standards
 
 ---
 
-## Deliverables
-- [Deliverable 1]
-- [Deliverable 2]
-- etc...
-
----
-
-## How to Run
-1. Clone: `git clone [repo-url]`
-2. Install: `pip install -r requirements.txt`
-3. Run: [instructions]
-
----
-
-## Contact
-Santiago Cuervo | [LinkedIn](https://www.linkedin.com/in/santicuerv0/)
+*Santiago Cuervo | First Year | Data Science & Business Administration | Northeastern University*
 
 ---
