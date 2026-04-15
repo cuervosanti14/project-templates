@@ -20,7 +20,7 @@ Explain the problem this solves and the team's approach.
 
 ## My Contribution
 Detailed explanation of MY specific work:
-- What you built/coded
+- What I built/coded
 - Technical approaches you used
 - Results you achieved
 - Skills you demonstrated
@@ -63,10 +63,9 @@ What the team built:
 ```
 project-name/
 ├── README.md
-├── data/
-├── notebooks/
-├── src/
-├── viz/
+├── data/ (Datasets)
+├── src/ (Python Scripts)
+├── viz/ (Visualizations)
 └── requirements.txt
 ```
 
