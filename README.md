@@ -37,6 +37,12 @@ These templates help me:
 
 ---
 
+## Questions or Suggestions?
+
+Feel free to reach out if you have ideas for improving these templates!
+
+---
+
 *Santiago Cuervo | First Year | Data Science & Business Administration | Northeastern University*
 
 ---
